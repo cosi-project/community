@@ -13,7 +13,7 @@ A substantial portion of this is IP is accredited to the concepts proposed by An
 ## Thesis
 
 Modern (circa 2021) UNIX based operating systems should be reimagined to support higher level workloads 
-that are managed in a distributed environment, such as kubernetes.
+that are managed in a distributed environment, such as Kubernetes.
 
 The first step in progress towards this goal, is defining an interface.
 
