@@ -12,5 +12,5 @@ The project will selectively host and mantain various tools that implement the C
 
 ### COSI Open Source
 
-Having a safe, effective, open, transparent, and commercial free experience is our number 1 value. As COSI evolves as a project, we may consider some sort of formal project governance. For now we trust commercially motivated contributions to maintain a clear and transparent set of ethics. 
+Having a safe, effective, open, transparent, and commercial free experience is our number one value. As COSI evolves as a project, we may consider some sort of formal project governance. For now we trust commercially motivated contributions to maintain a clear and transparent set of ethics. 
 
