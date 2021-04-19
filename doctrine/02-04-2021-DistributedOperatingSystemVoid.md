@@ -1,3 +1,15 @@
+# The Distributed Operating System Void
+
+Below this line is a literal translation of the original paper written by [Kris Nóva](https://nivenly.com) that addresses the Kubernetes specific problem with distributed operating systems.
+
+This serves as a concrete example and problem space for the COSI project to consider moving forward.
+
+---
+
+Original Link: [nivenly.com/lib/2021-04-02-operating-system-inferface](https://nivenly.com/lib/2021-04-02-operating-system-interface/)
+
+Original Document below:
+
 ---
 title: "The Distributed Operating System Void"
 date: "2021-04-02"
