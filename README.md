@@ -17,9 +17,9 @@ Anyone is welcome to join, and conduct will be subject to project owners discret
 
 Call notes: [HackMD](https://hackmd.io/IXcDy0prSgia4lOH_e1xSA)
 
-Call time: Wednesdays _9am Pacific (4pm GMT)_
+Call recordings: [Minutes](./MINUTES.md)
 
-Call link: See HackMD document
+Call time: Wednesdays _9am Pacific (4pm GMT)_
 
 ### Contributing
 
@@ -34,6 +34,4 @@ The COSI Project is licensed under the [Apache 2.0](https://github.com/cosi-proj
 Despite the egregious dependency of having a GNU public license for kernel code, the project has adopted an Apache 2 license for the majority of our code.
 
 We are aware of the licensing constraints while working with the Linux kernel, and are dedicated to offering free and open source software within the legal boundaries of these constraints.
-
-
 
