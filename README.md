@@ -16,7 +16,10 @@ We have weekly calls open to the public.
 Anyone is welcome to join, and conduct will be subject to project owners discretion.
 
 Call notes: [HackMD](https://hackmd.io/IXcDy0prSgia4lOH_e1xSA)
-Call time : _9am Pacific (4pm GMT)_
+
+Call time: Wednesdays _9am Pacific (4pm GMT)_
+
+Call link: See HackMD document
 
 ### Contributing
 
